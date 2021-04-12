@@ -1,0 +1,26 @@
+body{
+    background: aliceblue;
+}
+
+
+
+
+
+.main-content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.edit-button{
+   border: 1px solid grey;
+    margin: 5px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 2px 4px;
+    color: black;
+
+
+
+}

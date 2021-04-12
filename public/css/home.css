@@ -1,0 +1,17 @@
+
+
+.main-article__section{
+    margin: 20px 0;
+    background: white;
+}
+
+
+.main-article__section a{
+    text-decoration: none;
+}
+
+.article-list{
+    margin: 20px 0;
+    font-family: sans-serif;
+    font-weight: normal;
+}
